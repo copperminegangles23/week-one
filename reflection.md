@@ -30,7 +30,7 @@ Testing creation of new text file within github
   
   3.
   
-  **bold** remember to put two spaces in between
+  **remember to put two spaces in between**
   
   For bullet points:
   * before the text
