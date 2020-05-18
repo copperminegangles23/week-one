@@ -6,17 +6,17 @@ Testing creation of new text file within github
 
 ## A subheader
 
-# This is an <h1> tag
+# This is a h1 heading <h1> 
   
-  ## This is an <h2> tag
+  ## This is a h2 heading <h2> tag
   
-  ### This is an <h3> tag
+  ### This is a h3 heading <h3> tag
   
-  #### This is an <h4> tag
+  #### This is a h4 heading <h4> tag
   
-  ##### This is an <h5> tag
+  ##### This is a h5 <h5> tag
   
-  ###### This is an <h6> tag
+  ###### This is a h6 heading <h6> tag
   
   One can make words appear **bold** or *italic* using Markdown which controls how the document is displayed
   
