@@ -14,7 +14,7 @@ Testing creation of new text file within github
   
   #### This is a h4 heading <h4> tag
   
-  ##### This is a h5 <h5> tag
+  ##### This is a h5 heading <h5> tag
   
   ###### This is a h6 heading <h6> tag
   
