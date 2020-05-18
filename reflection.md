@@ -23,13 +23,14 @@ Testing creation of new text file within github
   The extension dot md is short for markdown 
   
   For numbered lists:
+  
   1.
   
   2.
   
   3.
   
-  remember to put two spaces in between
+  **bold** remember to put two spaces in between
   
   For bullet points:
   * before the text
