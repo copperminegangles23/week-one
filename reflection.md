@@ -6,7 +6,7 @@ Testing creation of new text file within github
 
 ## A subheader
 
-# This is a h1 heading <h1> 
+# This is a h1 heading <h1> tag
   
   ## This is a h2 heading <h2> tag
   
